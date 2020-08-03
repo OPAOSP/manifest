@@ -656,8 +656,8 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- OPAOSP manifest -->
-  <include name="opaosp_default.xml" />
+  <!-- GZOSP manifest -->
+  <include name="gzosp_default.xml" />
 
   <!-- CAF manifest -->
   <include name="caf_default.xml" />
