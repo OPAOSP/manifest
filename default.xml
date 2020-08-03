@@ -662,4 +662,7 @@
   <!-- CAF manifest -->
   <include name="caf_default.xml" />
 
+  <!-- OPAOSP manifest -->
+  <include name="opaosp_default.xml" />
+
 </manifest>
